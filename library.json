@@ -1,0 +1,20 @@
+{
+  "name": "Moonlight MQTT",
+  "version": "0.1.0",
+  "description": "Small, simple, and secure MQTT 5.0 client for microcontrollers. Full MQTT 5.0 with QoS 0, 1, and 2, retained messages, last will, auto reconnect, and TLS. Works on ESP32, ESP8266, Arduino, and Raspberry Pi over WiFi, Ethernet, or GSM.",
+  "keywords": "mqtt, mqtt5, iot, esp32, esp8266, arduino, tls, gsm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shlokbundele8/Moonlight-MQTT.git"
+  },
+  "authors": [
+    {
+      "name": "Shlok Bundele",
+      "email": "official@nirvanatechnologies.in"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "MoonlightMQTT.h"
+}

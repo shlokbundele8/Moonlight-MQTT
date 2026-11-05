@@ -1,0 +1,44 @@
+#######################################
+# Syntax coloring for Moonlight MQTT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Client	KEYWORD1
+StaticClient	KEYWORD1
+Transport	KEYWORD1
+ArduinoTransport	KEYWORD1
+PosixTransport	KEYWORD1
+TlsTransport	KEYWORD1
+ConnectOptions	KEYWORD1
+Message	KEYWORD1
+Will	KEYWORD1
+QoS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connect	KEYWORD2
+loop	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+disconnect	KEYWORD2
+connected	KEYWORD2
+onMessage	KEYWORD2
+onDisconnect	KEYWORD2
+enableAutoReconnect	KEYWORD2
+disableAutoReconnect	KEYWORD2
+lastReasonCode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+QOS0	LITERAL1
+QOS1	LITERAL1
+QOS2	LITERAL1
+OK	LITERAL1

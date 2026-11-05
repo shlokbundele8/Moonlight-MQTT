@@ -1,0 +1,8 @@
+# build output
+/build/
+*.o
+*.a
+
+# editor and OS files
+.vscode/
+.DS_Store
